@@ -206,7 +206,3 @@ Feel free to open issues or submit pull requests with new quotes, ASCII art, or 
 ## 📄 License
 
 MIT License — free to use and modify.
-
-```
-
----
